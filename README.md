@@ -142,7 +142,7 @@ The application predicts:
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/handwritten-alphabet-prediction.git
+git clone https://github.com/RashmithaBolla/Handwritten-Alphabet-Recognition.git
 
 cd handwritten-alphabet-prediction
 ```
