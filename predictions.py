@@ -4,7 +4,7 @@ import cv2
 import matplotlib.pyplot as plt
 
 # Load model
-model = tf.keras.models.load_model("emnist_cnn_model.keras")
+model = tf.keras.models.load_model("emnist_cnn_fixed.keras")
 
 # Read image
 img = cv2.imread("emnist_images/A_32.png", cv2.IMREAD_GRAYSCALE)
